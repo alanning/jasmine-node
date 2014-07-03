@@ -1,6 +1,6 @@
 {
   "name": "jasmine-node-reporter-fix",
-  "version": "1.14.3b",
+  "version": "0.0.2",
   "description": "DOM-less simple JavaScript BDD testing framework for Node",
   "contributors": [
     "Chris Moultrie <chris@moultrie.org>",
