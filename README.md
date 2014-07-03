@@ -3,6 +3,9 @@ jasmine-node
 
 [![Build Status](https://secure.travis-ci.org/spaghetticode/jasmine-node.png)](http://travis-ci.org/spaghetticode/jasmine-node)
 
+Fork of jasmine-node which includes a patch for getting junit reports working and also specifies jasmine-reporters@<2.0.0 to avoid [Issue #63](https://github.com/larrymyers/jasmine-reporters/issues/63) - Adrian
+
+
 This node.js module makes the wonderful [Pivotal Lab's jasmine](http://github.com/pivotal/jasmine)
 spec framework available in node.js.
 
